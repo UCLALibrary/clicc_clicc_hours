@@ -168,7 +168,7 @@ function get_hours() {
 		$output = '';
 		$hoursCLICCArr =  array(
 			"Lab/Commons" => $hours['Lab'],
-			"E-Learning Spaces" => $hours['Classrooms'],
+			"Classrooms" => $hours['Classrooms'],
 		);
 		$hoursLaptopsArr =  array(
 			"College Library" => $hours['College'],
